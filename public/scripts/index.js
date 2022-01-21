@@ -91,3 +91,6 @@ const handleFormSubmit = (e) => {
 
 // Listen for when the form is submitted
 tipForm.addEventListener('submit', handleFormSubmit);
+
+//Post when there is an invalid form submission and goes to 404 page
+
